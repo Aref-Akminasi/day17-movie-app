@@ -9,7 +9,7 @@ This is the movie app project from the course '50 projects in 50 days'
 Users should be able to:
 
 - Browse movies.
-- Search for a movie
+- Search for a movie.
 
 ### Screenshots
 
